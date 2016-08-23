@@ -1,0 +1,23 @@
+.contenedor{
+	height:300px;
+	width:500px;
+	border: 1px solid gray;
+}
+.cuadrado1{
+	height:100px;
+	width:25%;
+	background-color: #FFFF00;
+	float: left;
+}
+.cuadrado2{
+	height:100px;
+	width:25%;
+	background-color:#0174DF;
+	float: left;
+}
+.cuadrado3{
+	height:100px;
+	width:25%;
+	background-color:#DF0174;
+	float: left;
+}

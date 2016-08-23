@@ -1,0 +1,30 @@
+.contenedor{
+	height:25%;
+	width:500px;
+	border: 1px solid gray;    
+}
+
+.contenedor:after{
+	content: "";
+    display: block;
+    clear:both;
+}
+
+.cuadrado1{
+	height:100px;
+	width:25%;
+	background-color: #FFFF00;
+	float: left;
+}
+.cuadrado2{
+	height:100px;
+	width:25%;
+	background-color:#0174DF;
+	float: left;
+}
+.cuadrado3{
+	height:100px;
+	width:25%;
+	background-color:#DF0174;
+	float: left;
+}
